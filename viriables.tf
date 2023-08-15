@@ -6,7 +6,7 @@ variable "tag_momoon" {
   })
   default = {
     CreaterName = "Chutiwan Dongchan"
-    UserName    = "Siwanat Ponkhun"
-    UserEmail   = "siwanato@ais.co.th"
+    UserName    = "XXXXX"
+    UserEmail   = "xxx@xxx.com"
   }
 }
